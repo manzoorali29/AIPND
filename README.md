@@ -9,4 +9,4 @@ The .html file contains the code for the first part.
 
 ## Part 2
 
-Train.py and contain code for part 2
+`train.py` and `predict.py` contain code for part 2
